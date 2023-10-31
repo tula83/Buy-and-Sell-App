@@ -1,0 +1,28 @@
+.galleryWrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20 px;
+    align-items: center;
+    justify-content: center;
+    max-width:  1000px;
+    margin: 0 auto; 
+    margin-bottom: 70px;
+    
+}
+
+.galleryWrap .single {
+    width: 200px;
+    cursor: pointer;
+}
+
+.galleryWrap .single img {
+    max-width: 100px;
+}
+
+.galleryWrap .single img:hover {
+    transform: scale(1.02);
+}
+
+.all{
+    margin-top: 50px;
+}

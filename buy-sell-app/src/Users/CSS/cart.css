@@ -1,0 +1,11 @@
+.top-cart-header{
+    display: flex;
+     justify-content: space-around;
+     margin-top:50px;
+     margin-bottom: 50px;
+}
+
+.top-cart-header h3:hover{
+
+    color: chocolate;
+}
