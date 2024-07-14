@@ -1,5 +1,17 @@
 # Buy-and-Sell-App
-It is fullstack app which user can buy and sell the items with admin enabled where backend is built using flask and front end using  Reactjs 
+It is fullstack app which user can buy and sell the items with admin enabled.
+
+**Tech stack  used **:
+
+       BackEnd:
+            Flask
+         Database:
+              Mongodb
+         Docker
+
+      Frontend:
+         React js
+        
 
 functionalities:
 Users:
